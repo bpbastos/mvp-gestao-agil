@@ -1,5 +1,5 @@
 # Payroll
-<img src="wireframe/01. Login.png" alt="Wireframe Login">
+<img src="wireframe/07.%20Consulta%20horas%20aula%20trabalhadas.png" alt="Wireframe Login">
 
 > Elaboração do projeto Payroll com o objetivo de simplificar e automatizar a gestão da folha de pagamento dos professores de pós-graduação, eliminando os processos manuais que dependem de planilhas Excel, e tornando-o eficiente, transparente e integrado aos sistemas existentes.
 
