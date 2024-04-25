@@ -11,3 +11,4 @@
 - [x] ⁠Backlog do Produto, Definition of Ready e Definition of Done - incluindo ao menos um requisito não funcional - backlog-payroll.pdf
 - [x] ⁠Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação - backlog-payroll.pdf
 - [x] Imagens dos Protótipos de Interface - diretório wireframe/*
+- [x] Vídeo de Apresentação: https://drive.google.com/file/d/1RGSbnIsKEs-J4c4A3ONY5t5ZnlXsBG4M/view
